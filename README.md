@@ -1,1 +1,2 @@
-# data_780_project
+# Abstract
+This research seeks to apply machine learning techniques, specifically FastText, to compare job descriptions and assess the performance of the measurement tool, using data from the State of Virginia Department of Human Resources (DHRM) compensation and classification website. By utilizing the FastText algorithm, this study aims to improve the accuracy, efficiency, and scalability of job classification systems, particularly in public sector organizations. This approach aligns with the ongoing trend of integrating advanced machine learning techniques into HR functions to streamline processes and provide data-driven insights for better decision-making.
